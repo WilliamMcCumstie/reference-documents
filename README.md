@@ -13,3 +13,5 @@ https://phil.tech/api/2016/01/04/http-rest-api-file-uploads/
 ## Setting up a SSH tunnel
 https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
 
+# Using NetCat for various tunnels
+https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf
